@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: #f2f6e9;
+    background: #3D5467;
   }
   
   /*--- navigation bar ---*/
@@ -38,6 +38,7 @@ body {
     position: relative;
     font-family: 'Barlow', sans-serif;
     padding: 7% 2% 1%;
+    height: fit-content;
   }
 
   .about {
